@@ -48,12 +48,12 @@ selenium-practice-form/
 └── README.md # Project documentation
 
 ## Sample `data.txt`
-first_name=Pranav
-last_name=Pardhi
-email=pranav@gmail.com
-mobile=9876543210
-gender=Male
-dob=10 Oct 1999
-subjects=Maths, Physics
+- first_name=Pranav
+- last_name=Pardhi
+- email=pranav@gmail.com
+- mobile=9876543210
+- gender=Male
+- dob=10 Oct 1999
+- subjects=Maths, Physics
 hobbies=Sports, Reading
 address=Dev Bhumi Bharat
